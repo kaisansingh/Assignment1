@@ -11,4 +11,7 @@ multiplication = num1 * num2
 division = num1 / num2 if num2 != 0 else "Undefined (Division by Zero)"
 
 # Display results
-print(f"Results:\nAddition: {addition}\nSubtraction: {subtraction}\nMultiplication: {multiplication}\nDivision: {division}")
+print("Results:\nAddition: " + str(addition) + 
+      "\nSubtraction: " + str(subtraction) + 
+      "\nMultiplication: " + str(multiplication) + 
+      "\nDivision: " + str(division))
