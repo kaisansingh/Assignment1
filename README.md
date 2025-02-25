@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment 1
 This repository contains two Python programs:  
 
 1. **Task 1: Basic Mathematical Operations**
